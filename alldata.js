@@ -1,10 +1,7 @@
 function AllData(){
-  const ctx = React.useContext(UserContext);  
   return (
     <>
-    <h1>All Data<br/>
-      {JSON.stringify(ctx)}
-    </h1>
+    <h1>All Data</h1>
     </>
-  );  
+  );
 }
