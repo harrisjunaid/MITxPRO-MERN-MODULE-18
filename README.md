@@ -66,6 +66,8 @@
 
 ![main.drawio.png](assets/images/main.drawio.png)
 
+### [18-9     Bad Bank Context](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-9-4-49-bad-bank-context?module_item_id=290881)
+
 ### [18-8     Bad Bank Routing](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-7-video-18-dot-8-10-05-bad-bank-navigation-bar-and-routing?module_item_id=290880)
 
 ### [18-7    Bad Bank Navigation Bar](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-7-video-18-dot-8-10-05-bad-bank-navigation-bar-and-routing?module_item_id=290880)
