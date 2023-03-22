@@ -70,11 +70,16 @@
 
 
 
+### [18-5   Bad Bank Exercise Overview](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-5-video-18-dot-6-5-13-bad-bank-exercise-overview-and-create-bad-bank-application-files?module_item_id=290879)
+
+
+### [18-3  Context Basics](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-2-video-18-dot-3-18-03-routing-and-context-basics?module_item_id=290874)
+
+
 
 ### [18-2 Routing and Context Basics](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-2-video-18-dot-3-18-03-routing-and-context-basics?module_item_id=290874)
 
 
-### [18-2  Context Basics](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-2-video-18-dot-3-18-03-routing-and-context-basics?module_item_id=290874)
 
 
 
