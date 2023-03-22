@@ -66,6 +66,8 @@
 
 ![main.drawio.png](assets/images/main.drawio.png)
 
+### [18-11       Bad Bank - Styling The Bootstrap Card](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-10-video-18-dot-11-16-02-bad-bank-styling-the-navigation-bar-and-styling-the-bootstrap-card?module_item_id=290882)
+
 ### [18-10      Bad Bank - Styling The Navigation Bar](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-10-video-18-dot-11-16-02-bad-bank-styling-the-navigation-bar-and-styling-the-bootstrap-card?module_item_id=290882)
 
 ### [18-9     Bad Bank Context](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-9-4-49-bad-bank-context?module_item_id=290881)
