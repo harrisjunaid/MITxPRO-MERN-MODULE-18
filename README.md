@@ -67,7 +67,7 @@
 ![main.drawio.png](assets/images/main.drawio.png)
 
 
-
+### [18-7    Bad Bank Navigation Bar](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-7-video-18-dot-8-10-05-bad-bank-navigation-bar-and-routing?module_item_id=290880)
 
 
 ### [18-5   Bad Bank Exercise Overview](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-5-video-18-dot-6-5-13-bad-bank-exercise-overview-and-create-bad-bank-application-files?module_item_id=290879)
