@@ -74,6 +74,8 @@
 ### [18-2 Routing and Context Basics](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-2-video-18-dot-3-18-03-routing-and-context-basics?module_item_id=290874)
 
 
+### [18-2  Context Basics](https://classroom.emeritus.org/courses/1173/pages/video-18-dot-2-video-18-dot-3-18-03-routing-and-context-basics?module_item_id=290874)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
